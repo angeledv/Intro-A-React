@@ -1,7 +1,7 @@
 function Tarjeta() {
   // Definimos la información estática de la tarjeta
-  const nombre = "Ana Pérez";
-  const profesion = "Desarrolladora Web";
+  const nombre = "Angel Díaz";
+  const profesion = "Desarrollador Web";
   const mensaje = "¡Bienvenido a mi tarjeta de presentación!";
 
   // Retornamos el JSX que representa la tarjeta
